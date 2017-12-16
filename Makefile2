@@ -1,0 +1,11 @@
+cbinary: createBinary.c
+	gcc -o cbinary createBinary.c
+
+isPrime: isPrime.c
+	gcc -o isPrime isPrime.c
+
+singlePrime.c: isPrime.c
+	gcc -o singlePrime singlePrime.c
+
+singleSpawn.c: isPrime.c
+	gcc -o singleSpawn singleSpawn.c
