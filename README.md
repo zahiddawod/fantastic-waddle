@@ -1,5 +1,3 @@
-Assignment 5 - README
-
 CONTENTS OF THIS FILE
 -------------------
  * Purpose of software
@@ -22,8 +20,6 @@ Developer
 -------------------
 
 Auther: Zahid Dawod
-
-Student ID: #########
 
 Development Date: 02/12/2017
 
